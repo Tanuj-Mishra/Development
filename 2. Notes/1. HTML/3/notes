@@ -1,0 +1,23 @@
+<!DOCTYPE html> 
+	it specifies that, this file is of html type
+	
+then tags are present, if there is opening tag then there will also be closing tag
+	<html>
+	</html>
+	head and body are also two other tags defined inside it
+head
+	contains metatext which are used to describe a website
+	within head there is another tag title
+	
+body
+	it is the area in which content of page is written
+	
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+		</title>
+	</head>
+	<body>
+	</body>
+</html>
