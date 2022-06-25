@@ -1,0 +1,6 @@
+meta 
+    It is used in SEO(Seach Engine Optimisation) SEO is technique to increase
+    web traffic
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    it is used to encourage responsice design, webpage must work well in pc, mobile etc.
