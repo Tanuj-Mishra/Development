@@ -1,0 +1,16 @@
+2
+	Website -> domain
+	Response -> HTML page, which also contains CSS and JS
+	php/python/nodejs -> backend, when request is send depending upon implementaion, 
+		they create a response and then send it.
+	browser -> it will manipluate this object and then will present it on console.
+
+3
+	it is the skeleton of the body
+
+4
+	it is skin, color etc
+	
+5
+	it is the brain.
+
