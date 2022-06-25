@@ -1,0 +1,15 @@
+h -> heading
+	h1, h2 , ... h6.
+
+p -> paragraph
+
+Lorem -> it is functonality provided by Emmet which is used to include words.
+		Lorem50 -> it will write 50 words.
+		then use "Alt+Z" to word wrap it.
+
+p*4 will make 4 paragraphs
+
+strong tag -> for Bold, earlier 'b' was used, but from HTML5 onwards, it is not used.
+em tag -> for Italics, earlier 'i' was used, but from HTML5 onwards, it is not used.
+
+
