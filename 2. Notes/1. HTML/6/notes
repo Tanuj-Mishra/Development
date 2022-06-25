@@ -1,0 +1,9 @@
+a -> anchor tag
+	href -> attribute, which is used to add functionality to the tag, target is used to open link in new tab
+	it can be used to link both external and internal links, internal links are file present in directory.
+	
+img -> tag used for images
+	attributes -> src and alt
+	src -> link to image(internal or external)
+	alt -> string, which will be displayed if in case iamge is not displayed.
+
