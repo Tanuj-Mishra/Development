@@ -12,4 +12,5 @@ p*4 will make 4 paragraphs
 strong tag -> for Bold, earlier 'b' was used, but from HTML5 onwards, it is not used.
 em tag -> for Italics, earlier 'i' was used, but from HTML5 onwards, it is not used.
 
-
+br -> used to introduce new line, don't requires closing tag
+hr -> used to add new line, the place a horizontal line on it.
