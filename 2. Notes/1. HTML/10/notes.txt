@@ -1,0 +1,13 @@
+id -> stands for identifier, it is used to uniquely identify an element.
+an element is associated with exactly one id and an id is associated with exactly one element
+
+class -> is used to add some property to the element.
+an element can have multiple classes and a class can be associated with multiple elements.
+
+. is used for class and # is used for id
+for ankker, div is default tag
+
+p.a.b.c ->     <p class="a b c"></p>
+same goes for id, i.e #
+
+span#asdf.sd -> <span id="asdf" class="sd"></span>
