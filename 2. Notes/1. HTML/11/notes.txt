@@ -1,0 +1,16 @@
+by default, html saare spaces ko shrink krke, ek space mein convert kr deta h.
+new line -> br tag
+space -> entities
+
+Some characters are reserved in HTML.
+If you use the less than (<) or greater than (>) signs in your text, the browser might mix them with tags.
+Character entities are used to display reserved characters in HTML.
+
+eg ->
+    &nbsp -> non-breaking space
+        it is used to add space
+    &It -> less than
+    &gt -> greater than
+    &pound -> pound
+    &euro -> euro
+    &copy -> copyright
