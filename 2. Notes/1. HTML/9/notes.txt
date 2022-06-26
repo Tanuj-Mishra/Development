@@ -1,0 +1,5 @@
+inline element -> jitni jagah chahiye utni hi lenege -> span, a, strong, em
+block element -> wo complete line le lenege -> p, ul, li, div
+
+so either use inline element or using css, we can convert block element to inline element
+
