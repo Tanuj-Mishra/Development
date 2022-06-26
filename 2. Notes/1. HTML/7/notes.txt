@@ -1,0 +1,26 @@
+LIST
+
+    The ul element represents a list of items, where the order of the items is not important — that is, where changing the order would not materially change the meaning of the document.
+
+    The ol element represents a list of items, where the items have been intentionally ordered, such that changing the order would change the meaning of the document.
+
+    The li element represents a list item.
+
+TABLE
+
+    it consists of two attribute -> thead and tbody
+    thead -> used to fill row 0
+    body -> used to fill rest of rows
+
+    single row -> 
+    th -> thead
+    td -> body
+        <tr>
+            <th or td>                  
+                // content
+            </th or /td>
+        </tr>
+        
+    tr -> represents a row.
+    th -> th element of header cell in table
+    td -> th data element of cell in table
