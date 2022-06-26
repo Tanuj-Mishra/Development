@@ -1,0 +1,24 @@
+<form action="backend.php">
+    it will say, backend pr php pe jao aur jaake ye saara data save kr do
+    inside this form, input tag etc will be preent
+    
+dev -> block element
+input -> inline element
+
+for vertical line space, br tag is not recommended, instead we wil use css.
+
+inside input tag
+    name tag is used to spicify how that particular element will be stored in backend.
+
+<div>Time: <input type="time" name="myTime" /></div>
+
+<label for="time">Time: </label>
+<div><input type="time" name="myTime" id="time" /></div>
+
+input -> text must be before opening tag
+label -> text must be after opening tag 
+
+label -> If we click on time, then it will direct us to the section where we can fill the content
+where as without label, this thing will not happen 
+
+

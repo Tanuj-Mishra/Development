@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Tag</title>
+  </head>
+  <body>
+    <h2>Learning about Form Tag</h2>
+    <form action="backend.php">
+      <label for="name">Name:</label>
+      <div><input type="text" id="name" /></div>
+      <br />
+      <label for="num">Roll No: </label>
+      <div><input type="number" id="num" /></div>
+      <br />
+      <label for="time">Time: </label>
+      <div><input type="time" name="myTime" id="time" /></div>
+      <br />
+      <div>Calendar <input type="date" name="myDate" /></div>
+      <br />
+      <div>
+        Do you Agree Terms and Conditions <input type="checkbox"
+        name="mycheckBox" checked
+      </div>
+      <br />
+      <br />
+      <div>
+        <label for="em">Email: </label>
+        <input type="email" name="myEmail" id="em" />
+      </div>
+      <br />
+      <div>
+        Male <input type="radio" name="myGender" id="" /> Female
+        <input type="radio" name="myGender" id="" /> Other
+        <input type="radio" name="myGender" id="" />
+      </div>
+      <br />
+      <div>
+        Cars:
+        <select name="myCar" id="">
+          <option value="Swift">Swift</option>
+          <option value="i20">i20</option>
+          <option value="tata neo" selected>neo</option>
+        </select>
+      </div>
+
+      <div>
+        <input type="submit" name="mySubmit" />
+        <input type="reset" name="myReset" />
+      </div>
+      <br />
+      <label for="ta">Write: </label>
+      <br /><textarea name="mytext" id="ta" cols="50" rows="7"></textarea>
+      <div></div>
+    </form>
+  </body>
+</html>
