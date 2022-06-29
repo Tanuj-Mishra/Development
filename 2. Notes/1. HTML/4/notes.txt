@@ -1,11 +1,11 @@
 meta 
-    It is used in SEO(Seach Engine Optimisation) SEO is technique to increase
-    web traffic
+    It is used in SEO(Seach Engine Optimisation) SEO is technique to increase web traffic
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    it is used to encourage responsice design, webpage must work well in pc, mobile etc.
+    it is used to encourage responsive design, webpage must work well in pc, mobile etc.
 
 <meta name="keywords" content="html, css, js" />
     these will be the keywords which will be used when google will be searching
 <meta name="robots" content="INDEX, FOLLOW" />
     this will make our page to be indexed and followed when someone searches something related to it(keywords)
+
