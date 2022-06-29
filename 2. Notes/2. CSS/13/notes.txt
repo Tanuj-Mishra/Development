@@ -1,0 +1,1 @@
+we want html to take resposibility of structure and css to handle design, though this code will become maintainable.
