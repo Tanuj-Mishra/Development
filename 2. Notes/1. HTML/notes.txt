@@ -1,0 +1,45 @@
+! + Tab -> HTML Boiler Plate
+
+4
+	link -> embed css
+	script -> attach js
+5
+	h -> heading
+	p -> paragraph
+	strong -> bold
+	em -> italics
+	br -> new line
+	hr -> horizontal line
+6
+	a -> link			-> anker tag
+	img -> image
+7
+	ul -> unordered list
+	ol -> ordered list
+	table -> table
+8
+	action -> to save data in backend
+	input -> to take input from data [here text must be written before operning tag]
+		label -> functionality so that, when click on text then it will make curosor point to box where from where input is to be given
+			   must be used with input
+	
+9.
+	these are not tags
+		inline element -> jitni jagah chahiye utni hi lenege -> span, a, strong, em
+		block element -> wo complete line le lenege -> p, ul, li, div
+		so either use inline element or using css, we can convert block element to inline element
+
+10
+	these are attributes
+		id -> #, identifier, 
+		class -> .
+		
+11
+	character entities -> used to display reserved words, starts with &
+	eg -> 
+		&nbsp -> non breaking space
+		&lt -> less then
+		&gt -> greater then
+		
+12
+	Semantic Element -> elements with a meaning
