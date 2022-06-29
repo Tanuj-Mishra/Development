@@ -1,0 +1,21 @@
+inline -> don't use it, it is not good practice
+internal -> better then inline
+external -> best among all
+
+inline 
+    added as 'style' attribute
+
+internal   
+    added as style tag in head tag
+    
+external
+    directly mention the changes as done in internal
+    here, this file is replaced with the content written in .css file
+
+internal vs external
+    that which is written afterwards
+
+inline -> most 
+
+
+however, it can be changed using "!important" it will be having most priority among all
